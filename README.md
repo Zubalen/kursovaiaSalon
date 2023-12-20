@@ -27,3 +27,13 @@
 - [ ] Внедрение ИС
 - [ ] Поддержка
 
+## Контакты
+<a name="contact"></a>
+
+Никита - [@Nikitisch](https://t.me/Nikitisch)
+<br/><br/>
+Егор - [@Zubalen](https://t.me/Zubalen)
+<br/><br/>
+Телеграм бот: <a href="https://t.me/KursTest190_bot">Салон красоты "Прекрасные мгновения"</a>
+<br/><br/>
+
