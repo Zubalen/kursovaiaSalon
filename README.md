@@ -37,3 +37,7 @@
 Телеграм бот: <a href="https://t.me/KursTest190_bot">Салон красоты "Прекрасные мгновения"</a>
 <br/><br/>
 
+<a href="https://t.me/KursTest190_bot" align="center">
+    <img src="pictures/photo.png" alt="Салон красоты "Прекрасные мгновения" height="300">
+</a>
+
